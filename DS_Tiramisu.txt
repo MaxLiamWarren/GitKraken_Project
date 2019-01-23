@@ -2,7 +2,7 @@ Tiramisu
 
 Menu Class: Dessert
 
-Recipe By M. Warren
+Recipe By Max Warren
 
 Description:
 Tiramisu is a classic Italian dessert. Ladyfinger cookies dipped in coffee, then layered with mascarponed and dusted with cocoa powder. This will become your new favorit dessert.
